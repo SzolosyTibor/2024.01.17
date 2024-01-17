@@ -1,6 +1,6 @@
 import streamlit as st
 
 
-st.title("Projects")
+st.title("Projektek")
 
-st.write("You have entered", st.session_state["my_input"])
+st.write("Beléptél", st.session_state["my_input"])
